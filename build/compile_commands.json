@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-tur/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-tur.dir/vfb-tur.cpp.o -c /home/denis/vfb-net/vfb-tur/vfb-tur.cpp",
+  "file": "/home/denis/vfb-net/vfb-tur/vfb-tur.cpp"
+}
+]
